@@ -149,3 +149,6 @@ ChaosGraph AI is being developed as part of **Graph Hacks 2026**. Features and w
 ## 📄 License
 
 This project is released under the **MIT License**. See the `LICENSE` file for details.
+
+
+Built by Sharath Akkaldevi
